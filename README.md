@@ -39,16 +39,16 @@ In this type of linked list, the last node of the linked list contains the link 
 * Display
 
 # Time Complexity	
-* Search 
-Worst Case : O(n)	      
-Average Case : O(n)
+### Search  
+#### Worst Case : O(n)	      
+#### Average Case : O(n)
 
-* Insert
-Worst Case : O(1)	      
-Average Case : O(1)
+### Insert
+#### Worst Case : O(1)	      
+#### Average Case : O(1)
 
-* Deletion 
-Worst Case : O(1)	      
-Average Case : O(1)
+### Deletion 
+#### Worst Case : O(1)	      
+#### Average Case : O(1)
 
-* Auxiliary Space: O(N)
+#### Auxiliary Space: O(N)
